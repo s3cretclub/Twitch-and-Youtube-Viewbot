@@ -16,7 +16,7 @@ namespace Youtube_Viewers
         static string id;
         static int threadsCount;
 
-        static int pos = 0;
+        static int pos = 0;//
 
         static ProxyQueue scraper;
         static ProxyType proxyType;
