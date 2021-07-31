@@ -1,4 +1,4 @@
-# youtube-view-bot
+# youtube view bot
 youtube view bot with proxys
 
 Download https://github.com/s3cretclub/youtube-view-bot/releases/tag/final from Latest Release page
