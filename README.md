@@ -1,2 +1,2 @@
 # Twitch-and-Youtube-Viewbot
-youtube view bot with proxys
+Twitch and Youtube view-bot
